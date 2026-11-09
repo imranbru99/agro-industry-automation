@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "agro-industry-automation",
+  "description": "Agro Industry Automation — Agriculture & Processing Laravel Filament ERP/SaaS for Bangladesh (Bogura). Agricultural industry software for procurement, processing lines, cold chain, and dealer distribution. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "agriculture-processing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/agro-industry-automation"
+}
